@@ -1,0 +1,11 @@
+https://kheafield.com/code/kenlm/
+
+https://github.com/kpu/kenlm
+pip install https://github.com/kpu/kenlm/archive/master.zip
+
+input to KenLM should be tokenized first
+
+compute prob table: arpa
+convert to binary: 
+run it via python
+
